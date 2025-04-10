@@ -23,7 +23,7 @@ To get started with FrogLang, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/FrogLang.git
+    git clone https://github.com/c00lplaza/FrogLang.git
     cd FrogLang
     ```
 
