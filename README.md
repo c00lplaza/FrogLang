@@ -47,3 +47,5 @@ After installation, navigate to the `FrogLang/bin` directory and run your FrogLa
 
 ```bash
 haxe -cp . -main Main -js FrogLang.js
+
+This group project is licensed under the MIT License :D
