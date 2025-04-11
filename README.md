@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FrogLang** is a lighthearted, frog-themed programming language designed to make learning programming enjoyable and accessible. With a focus on fun and creativity, FrogLang combines the simplicity of Lua and the powerful features of Haxe, providing a unique environment for beginners and seasoned developers alike to explore programming concepts.
+**FrogLang** is a lighthearted, frog-themed programming language designed to make learning programming enjoyable and accessible. With a focus on fun and creativity, FrogLang combines the simplicity of Lua and the powerful features of Haxe, providing a unique environment for beginners and seasoned developers alike to explore programming concepts.(This group project is licensed under the MIT License :D)
 
 ### Key Features
 
@@ -47,5 +47,3 @@ After installation, navigate to the `FrogLang/bin` directory and run your FrogLa
 
 ```bash
 haxe -cp . -main Main -js FrogLang.js
-
-This group project is licensed under the MIT License :D
