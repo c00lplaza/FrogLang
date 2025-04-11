@@ -36,7 +36,7 @@ Just the keywords and stuff if you dont know
   - Description: Outputs the value of the specified variable to the console.
   - Example: `print result`
 
-### Froggy Fun Functions
+### FrogLang Functions
 
 - **ribbit**: 
   - Syntax: `ribbit count`
