@@ -1,6 +1,6 @@
 # FrogLang Keywords Documentation
 
-Welcome to FrogLang! Below is a list of keywords and built-in functions you can use in your frog-themed programming language. Each keyword is briefly explained to help you understand its purpose and usage.
+Just the keywords and stuff if you dont know
 
 ## Keywords and Functions
 
@@ -73,10 +73,4 @@ Welcome to FrogLang! Below is a list of keywords and built-in functions you can 
 ## Additional Notes
 
 - Variable names must start with a letter and can include letters, digits, and underscores (_).
-- Comments can be added using the `#` symbol. Everything written after `#` on the same line is ignored by the interpreter.
-
-## Conclusion
-
-The above keywords are the foundation of programming in FrogLang. Use them to create fun and whimsical programs that showcase the unique frog-themed concept of this language. For a deeper understanding, try experimenting with each keyword in your FrogLang environment.
-
-Enjoy your coding adventures in FrogLang! 🐸
+- Comments can be added using the `#` symbol. Everything written after `#` on the same line.
